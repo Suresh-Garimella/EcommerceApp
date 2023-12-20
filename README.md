@@ -1,0 +1,1 @@
+•	Developed a comprehensive E-commerce web application from scratch using Flask, a Python-based web framework, with MongoDB as the backend database. The project aimed to create a robust and user-friendly platform for online shopping, offering seamless navigation and efficient product management.
